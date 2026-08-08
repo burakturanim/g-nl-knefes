@@ -1,0 +1,22 @@
+{
+  "short_name": "Nefes",
+  "name": "Nefes - Günlük Nefes Egzersizi",
+  "description": "Sade, huzurlu ve günlük nefes pratiğine odaklanan wellness uygulaması",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FAF7F2",
+  "theme_color": "#FAF7F2",
+  "display": "standalone",
+  "orientation": "portrait"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Günlük Nefes Egzersizi",
+  "description": "Mobil cihazlar için minimalist, modern ve sakin günlük nefes rutini ve wellness uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
